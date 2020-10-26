@@ -1,0 +1,53 @@
+
+<h2>Ramorion McGee</h2>
+<table>
+  <tr>
+    <th>Start Time</th>
+    <th>End Time</th>
+    <th>Classes</th>
+  </tr>
+  <tr>
+    <td>8:00</td>
+    <td>8:30</td>
+    <td>Advisory</td>
+  </tr>
+  <tr>
+    <td>8:30</td>
+    <td>9:20</td>
+    <td>APUSH</td>
+  </tr>
+  <tr>
+    <td>9:23</td>
+    <td>10:13</td>
+    <td>College Prep</td>
+  </tr>
+  <tr>
+    <td>10:35</td>
+    <td>11:25</td>
+    <td>Algebra 2</td>
+  </tr>
+  <tr>
+    <td>11:55</td>
+    <td>12:45</td>
+    <td>Personal Finance</td>
+  </tr>
+  <tr>
+    <td>12:48</td>
+    <td>1:38</td>
+    <td>English 3</td>
+  </tr>
+  <tr>
+    <td>2:00</td>
+    <td>2:50</td>
+    <td>CSIP</td>
+  </tr>
+</table>
+
+</body>
+</html>
+<div class="dropdown">
+  <button class="dropbtn">Schedule</button>
+  <div class="dropdown-content">
+    <a href="https://republic.instructure.com/courses/174">HomePage</a>
+  </div>
+</div>
